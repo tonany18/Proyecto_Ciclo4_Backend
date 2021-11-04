@@ -30,7 +30,7 @@ Innovar, liderar y proveer un servicio integral proporcionando una plataforma pa
 
 ## Product Backlog
 
-[Jira](https://proyectospersonalessoranyi.atlassian.net/jira/software/projects/PT/boards/1)
+[Jira](https://soranyi.atlassian.net/jira/software/projects/PT/boards/1)
 
 ### HHU01 - Ingreso al sistema  
 
