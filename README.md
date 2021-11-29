@@ -1,4 +1,4 @@
-# Proyecto_Ciclo4_Backend
+# Proyecto_Ciclo4
 
 Este proyecto fue generado con  [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
@@ -30,7 +30,7 @@ Innovar, liderar y proveer un servicio integral proporcionando una plataforma pa
 
 ## Product Backlog
 
-[Jira](https://proyectospersonalessoranyi.atlassian.net/jira/software/projects/PT/boards/1)
+[Jira](https://soranyi.atlassian.net/jira/software/projects/PT/boards/1)
 
 ### HHU01 - Ingreso al sistema  
 
