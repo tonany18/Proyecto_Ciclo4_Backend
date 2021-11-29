@@ -1,0 +1,17 @@
+{
+  "name": "tiendab4g7back",
+  "version": "1.0.0",
+  "description": "Backend TiendaB4G7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "angular"
+  ],
+  "author": "Soranyi Martinez",
+  "license": "MIT"
+}
