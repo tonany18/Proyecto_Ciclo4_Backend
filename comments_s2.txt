@@ -1,0 +1,4 @@
+Chicos a continuación les comparto algunos comentarios con respecto al sprint 2:
+
+1. No se evidencia el diagrama de clases.
+2. No se evidencian los pantallazos de instalaciones.
